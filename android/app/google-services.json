@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187234894101",
+    "project_id": "fir-s-7389b",
+    "storage_bucket": "fir-s-7389b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187234894101:android:9e8f3d3f9b84688b03691c",
+        "android_client_info": {
+          "package_name": "com.Apoorva.firebases_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187234894101-f1fk4kmbemvv42aq750ob9q5obe0uhip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHxCvEvqXhfUXPPfR8JnXuauRVutAHAkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187234894101-f1fk4kmbemvv42aq750ob9q5obe0uhip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
